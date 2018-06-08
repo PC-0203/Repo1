@@ -1,2 +1,2 @@
-eg = int(input('Enter value :'))
-print (eg)
+eg1 = int(input('Enter value :'))
+print (eg1)
